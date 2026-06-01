@@ -16,9 +16,8 @@ The goal was to build an **interactive and user‑friendly stopwatch** web appli
 - **JavaScript (ES6)** → Stopwatch logic & interactivity  
 
 
-
 ## 🚀 Live Demo
-🔗 [View Stopwatch App](https://meghana-rajoju.github.io/SCT_WD_2_Stopwatch/)  
+🔗 [View Stopwatch App](https://meghana-rajoju.github.io/SCT_WD_2/)  
 
 ## 📌 Internship Context
 This project was developed as **Task 2** under the **SkillCraft Technology Web Development Internship**, focusing on building practical, interactive web applications.
